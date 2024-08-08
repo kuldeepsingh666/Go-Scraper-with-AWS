@@ -1,0 +1,3 @@
+{
+  "data_source": "user:password@tcp(rds_endpoint:3306)/quotes"
+}
